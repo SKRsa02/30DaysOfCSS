@@ -27,7 +27,7 @@ body {
 
 .wrapper h2:nth-child(2) {
   color:#E6538C;
-  animation: ani 4s ease-in-out infinite;
+  animation: ani 1s ease-in-out infinite;
 }
 
 @keyframes ani {
